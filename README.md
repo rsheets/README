@@ -1,5 +1,7 @@
 # rsheets
 
+**Warning: These projects are in the early scoping stages; do not use for anything other than amusement/frustration purposes**
+
 What is going on here?
 
 * [`rexcel`](https://github.com/rsheets/rexcel)
