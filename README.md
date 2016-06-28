@@ -18,3 +18,7 @@ It represents workbooks, worksheets, "views" into worksheets, and formatting inf
 Used through out all the other packages, cellranger holds references to regions within worksheets and workbooks.
 
 * [`jailbreakr`](https://github.com/rsheets/jailbreakr) attempts to extract non-tabular data from spreadsheets.
+
+We have collected all the Enron corpus in a [repository on gitlab](https://gitlab.com/rsheets/enron_corpus).  These files can be accessed using [remotefile](https://github.com/richfitz/remotefile), or you can clone the whole ~1.5GB of files.
+
+We ran `rexcel` over all 15871 xlsx files in the corpus and have stored linen objects in [this gitlab repository](https://gitlab.com/rsheets/enron_corpus_linen).  This will be useful (for us) for seeing how Excel is used in the wild.
